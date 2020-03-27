@@ -1,0 +1,11 @@
+h1 {outline-style: dotted; outline color: red }
+p{
+	font-family: "Lucida consolen", Lucida, Manospace; font-style: oblique;
+}
+h1{
+	text-shadow: 3px 1px white;
+}
+img {
+	border-radius: 150px
+}
+body{px; color: black; text-shadow: 1px 1px white; border-style: solid}
